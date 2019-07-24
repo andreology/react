@@ -1,3 +1,6 @@
+//Andre Barajas
+//React Blog Site Practice 
+//Summer 19
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -11,7 +14,7 @@ const NavBar = () => (
                 <Link to="/about">About</Link>
             </li>
             <li>
-                <Link to="/article-list">Articles</Link>
+                <Link to="/articles-list">Articles</Link>
             </li>
             
         </ul>

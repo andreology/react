@@ -1,3 +1,6 @@
+//Andre Barajas
+//React Blog Site Practice 
+//Summer 19
 import React from 'react';
 
 const AboutPage = () => (
